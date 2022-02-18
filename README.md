@@ -37,5 +37,5 @@
 3. [Возведите число А в натуральную степень B используя цикл](middle/ex_3_find_the_natural_power_of_number_with_the_cycles.py)
 4. [Определить количество цифр в числе](middle/ex_4_count_of_decimal_digits_in_number.py)
 5. [Подсчитать сумму цифр в числе](middle/ex_5_calculate_the_sum_of_digits_in_number.py)
-6. [Написать программу вычисления произведения чисел от 1 до N](middle/ex_6_calculate_n_factorial .py)
+6. [Написать программу вычисления произведения чисел от 1 до N](middle/ex_6_calculate_n_factorial.py)
 7. [Показать кубы чисел, заканчивающихся на четную цифру](middle/ex_7_calculate_odd_cubes.py)
