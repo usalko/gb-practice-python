@@ -30,6 +30,7 @@
 7. [Найти расстояние между точками в пространстве 2D/3D](junior/ex_7_calculate_2d_3d_distance.py)
 
 [Почувствуй себя мидлом*](middle)
+
 0. [Показать таблицу квадратов чисел от 1 до N](middle/ex_0_show_the_table_of_squares.py)
 1. [Найти кубы чисел от 1 до N](middle/ex_1_show_the_cubes_from_1_to_n.py)
 2. [Найти сумму чисел от 1 до А](middle/ex_2_ind_the_sum_of_numbers_from_1_to_a.py)
