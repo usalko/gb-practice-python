@@ -29,3 +29,12 @@
 6. [Программа проверяет пятизначное число на палиндромом.](junior/ex_6_check_the_5_digit_palindrom.py)
 7. [Найти расстояние между точками в пространстве 2D/3D](junior/ex_7_calculate_2d_3d_distance.py)
 
+[Почувствуй себя мидлом*](middle)
+0. [Показать таблицу квадратов чисел от 1 до N](middle/ex_0_show_the_table_of_squares.py)
+1. [Найти кубы чисел от 1 до N](middle/ex_1_show_the_cubes_from_1_to_n.py)
+2. [Найти сумму чисел от 1 до А](middle/ex_2_ind_the_sum_of_numbers_from_1_to_a.py)
+3. [Возведите число А в натуральную степень B используя цикл](middle/ex_3_find_the_natural_power_of_number_with_the_cycles.py)
+4. [Определить количество цифр в числе](middle/ex_4_count_of_decimal_digits_in_number.py)
+5. [Подсчитать сумму цифр в числе](middle/ex_5_calculate_the_sum_of_digits_in_number.py)
+6. [Написать программу вычисления произведения чисел от 1 до N](middle/ex_6_calculate_n_factorial .py)
+7. [Показать кубы чисел, заканчивающихся на четную цифру](middle/ex_7_calculate_odd_cubes.py)
